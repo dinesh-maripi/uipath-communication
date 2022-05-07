@@ -1,2 +1,2 @@
 - ask user input
-- display the user selected option
+- display user selected option
